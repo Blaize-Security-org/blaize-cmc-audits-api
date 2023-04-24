@@ -9,9 +9,9 @@ export interface IAuditResponse {
   contractAddress: string; //0x.../ if cmc id can be provided, contract address and platform is not required.
   contractPlatform: string; //'BSC'
   reportUrl: string; //e.g. ​​https://www.certik.org/projects/1inch
-  overview: Array<IAuditOverview>;
-  communityAlerts: Array<IAuditCommunityAlerts>;
-  findings: Array<IAuditFindings>;
+  overview?: Array<IAuditOverview>;
+  communityAlerts?: Array<IAuditCommunityAlerts>;
+  findings?: Array<IAuditFindings>;
 }
 
 interface IAuditOverview {
