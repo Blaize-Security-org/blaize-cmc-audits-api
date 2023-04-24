@@ -50,7 +50,7 @@
 ```
 ---
 ### Aggregation audits:
-- Get: /api/aggregation?skip=[number>=0]
+- GET: /api/aggregation?skip=[number>=0]
 - Response:
 ```
 {
