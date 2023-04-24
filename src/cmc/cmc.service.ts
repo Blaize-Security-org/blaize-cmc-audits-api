@@ -8,7 +8,7 @@ import { assertParse } from 'typia';
 export class CmcService {
   private audits: Array<IAuditResponse>;
   constructor() {
-    const filePath = path.join('audits', 'audits.json');
+    const filePath = path.join('storage', 'cmc_audits.json');
     const rawData = readFileSync(filePath, 'utf-8');
     this.audits = assertParse<Array<IAuditResponse>>(rawData);
   }

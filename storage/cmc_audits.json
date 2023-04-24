@@ -3,7 +3,7 @@
     "coinId": 1,
     "coinName": "Pancake",
     "symbol": "CAKE",
-    "auditor": "Name of Audit Company”, //e.g. Certik, Hacken",
+    "auditor": "Name of Audit Company",
     "auditStatus": 0,
     "auditTime": "2020-10-13T00:12:12Z",
     "contractAddress": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
