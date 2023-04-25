@@ -1,30 +1,12 @@
 [
   {
-    "projectName": "Binaryx",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Polygon",
-    "reportDate": "22 Mar 2023",
-    "publicationDate": "24 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/"
-  },
-  {
-    "projectName": "Cupcake",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cupcake/Cupcake-audit-report-v1-[5-Jan-2023].pdf",
+    "projectName": "Veritty",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
-    "reportDate": "5 Jan 2023",
-    "publicationDate": "2 Feb 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cupcake-nft-app/"
-  },
-  {
-    "projectName": "Everstake",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-audit-report-v1-[10-Mar-2023].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "10 Mar 2023",
-    "publicationDate": "30 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-everstake/"
+    "reportDate": "29 Mar 2023",
+    "publicationDate": "",
+    "caseUrl": ""
   },
   {
     "projectName": "Gerobi",
@@ -36,22 +18,13 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-gerobi/"
   },
   {
-    "projectName": "Kale Bridge by Bluelight",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/bluelight/KaleBridge-audit-report-v1-[30-Jan-2023].pdf",
+    "projectName": "Binaryx",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf",
     "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "30 Jan 2023",
-    "publicationDate": "16 Feb 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-bluelight-kale-bridge/"
-  },
-  {
-    "projectName": "Liquid Access NFT",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/liquidaccess/LiquidAccessNFT-audit-report-v2-[10-Feb-2023].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "10 Feb 2023",
-    "publicationDate": "23 Feb 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
+    "contractPlatform": "Polygon",
+    "reportDate": "22 Mar 2023",
+    "publicationDate": "24 Mar 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/"
   },
   {
     "projectName": "Synthex",
@@ -63,13 +36,13 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-synthex/"
   },
   {
-    "projectName": "Title Deeds CEX by Viewpoint",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeedsCEX-audit-report-v1-[13-Feb-2023].pdf",
+    "projectName": "Everstake",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-audit-report-v1-[10-Mar-2023].pdf",
     "lang": "Solidity",
-    "contractPlatform": "Ethereum, BNB Chain",
-    "reportDate": "13 Feb 2023",
-    "publicationDate": "1 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-title-deeds-cex-by-viewpoint-labs/"
+    "contractPlatform": "Ethereum",
+    "reportDate": "10 Mar 2023",
+    "publicationDate": "30 Mar 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-everstake/"
   },
   {
     "projectName": "TokenDeal",
@@ -81,67 +54,40 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-tokendeal-protocol-for-nft-sales/"
   },
   {
-    "projectName": "Rainbow Bridge by Aurora",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf",
-    "lang": "Solidity, Rust",
-    "contractPlatform": "Ethereum, NEAR",
-    "reportDate": "5 Oct 2022",
-    "publicationDate": "14 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/"
+    "projectName": "Title Deeds CEX by Viewpoint",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeedsCEX-audit-report-v1-[13-Feb-2023].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum, BNB Chain",
+    "reportDate": "13 Feb 2023",
+    "publicationDate": "1 Mar 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-title-deeds-cex-by-viewpoint-labs/"
   },
   {
-    "projectName": "Veritty",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf",
+    "projectName": "Liquid Access NFT",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/liquidaccess/LiquidAccessNFT-audit-report-v2-[10-Feb-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
-    "reportDate": "29 Mar 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "reportDate": "10 Feb 2023",
+    "publicationDate": "23 Feb 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
   },
   {
-    "projectName": "1inch (Limit Orders)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/1/1inch/1inch-audit-report-v1-[5-Nov-2021].pdf",
+    "projectName": "Kale Bridge by Bluelight",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/bluelight/KaleBridge-audit-report-v1-[30-Jan-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
-    "reportDate": "5 Nov 2021",
-    "publicationDate": "26 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-1inch/"
+    "reportDate": "30 Jan 2023",
+    "publicationDate": "16 Feb 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-bluelight-kale-bridge/"
   },
   {
-    "projectName": "Aurora (staking)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/Aurora-audit-report-v1-[7-Jun-2022].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Aurora",
-    "reportDate": "7 Jun 2022",
-    "publicationDate": "15 Aug 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-aurora/"
-  },
-  {
-    "projectName": "CryptoBear",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptobear/CryptoBear-audit-report-v1-[18-Jan-2022].pdf",
+    "projectName": "Cupcake",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cupcake/Cupcake-audit-report-v1-[5-Jan-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
-    "reportDate": "18 Jan 2022",
-    "publicationDate": "3 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cryptobear-watch-club/"
-  },
-  {
-    "projectName": "Crypto Collective",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptocollective/CryptoCollective-audit-report-v1-[9-Apr-2022].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "9 Apr 2022",
-    "publicationDate": "21 Apr 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-crypto-collective/"
-  },
-  {
-    "projectName": "Kale Token (by Viewpoint)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/KaleToken-audit-report-v1-[15-Jun-2022].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "15 Jun 2022",
-    "publicationDate": "",
-    "caseUrl": ""
+    "reportDate": "5 Jan 2023",
+    "publicationDate": "2 Feb 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cupcake-nft-app/"
   },
   {
     "projectName": "Liquid Access NFT",
@@ -153,58 +99,13 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
   },
   {
-    "projectName": "LiveTree",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/livetree/LiveTree-audit-report-v1-[19-Jul-2022].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "15 Jun 2022",
-    "publicationDate": "",
-    "caseUrl": ""
-  },
-  {
-    "projectName": "Nemus",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v1-[18-Feb-2022].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "18 Feb 2022",
-    "publicationDate": "21 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-nemus/"
-  },
-  {
-    "projectName": "Nemus",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v2-[14-Mar-2022].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "14 Mar 2022",
-    "publicationDate": "22 Apr 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-nemus/"
-  },
-  {
-    "projectName": "PeakDeFi Fund",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Fund-[22-Jul-2021].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "22 Jul 2021",
-    "publicationDate": "9 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
-  },
-  {
-    "projectName": "PeakDeFi Governance",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Governance-[15-Dec-2021].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "15 Dec 2021",
-    "publicationDate": "9 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
-  },
-  {
-    "projectName": "PeakDeFi Launchpad",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Lauchpad-[2-Feb-2022].pdf",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "2 Feb 2022",
-    "publicationDate": "9 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
+    "projectName": "Rainbow Bridge by Aurora",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf",
+    "lang": "Solidity, Rust",
+    "contractPlatform": "Ethereum, NEAR",
+    "reportDate": "5 Oct 2022",
+    "publicationDate": "14 Mar 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/"
   },
   {
     "projectName": "Rainbow Bridge (by Aurora)",
@@ -216,6 +117,42 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/"
   },
   {
+    "projectName": "Title Deeds (by Viewpoint)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeeds-audit-report-v1-[22-Jul-2022].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "22 Jul 2022",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "Kale Token (by Viewpoint)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/KaleToken-audit-report-v1-[15-Jun-2022].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "15 Jun 2022",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "LiveTree",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/livetree/LiveTree-audit-report-v1-[19-Jul-2022].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "15 Jun 2022",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "Aurora (staking)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/Aurora-audit-report-v1-[7-Jun-2022].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Aurora",
+    "reportDate": "7 Jun 2022",
+    "publicationDate": "15 Aug 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-aurora/"
+  },
+  {
     "projectName": "Sanr",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sanr/SanR-audit-report-v1-[18-Apr-2022].pdf",
     "lang": "Solidity",
@@ -225,13 +162,76 @@
     "caseUrl": ""
   },
   {
-    "projectName": "Title Deeds (by Viewpoint)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeeds-audit-report-v1-[22-Jul-2022].pdf",
+    "projectName": "Crypto Collective",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptocollective/CryptoCollective-audit-report-v1-[9-Apr-2022].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
-    "reportDate": "22 Jul 2022",
-    "publicationDate": "",
-    "caseUrl": ""
+    "reportDate": "9 Apr 2022",
+    "publicationDate": "21 Apr 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-crypto-collective/"
+  },
+  {
+    "projectName": "Nemus",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v2-[14-Mar-2022].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "14 Mar 2022",
+    "publicationDate": "22 Apr 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-nemus/"
+  },
+  {
+    "projectName": "Nemus",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v1-[18-Feb-2022].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "18 Feb 2022",
+    "publicationDate": "21 Feb 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-nemus/"
+  },
+  {
+    "projectName": "PeakDeFi Launchpad",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Lauchpad-[2-Feb-2022].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "2 Feb 2022",
+    "publicationDate": "9 Feb 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
+  },
+  {
+    "projectName": "CryptoBear",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptobear/CryptoBear-audit-report-v1-[18-Jan-2022].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "18 Jan 2022",
+    "publicationDate": "3 Feb 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cryptobear-watch-club/"
+  },
+  {
+    "projectName": "PeakDeFi Governance",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Governance-[15-Dec-2021].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "15 Dec 2021",
+    "publicationDate": "9 Feb 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
+  },
+  {
+    "projectName": "1inch (Limit Orders)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/1/1inch/1inch-audit-report-v1-[5-Nov-2021].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "5 Nov 2021",
+    "publicationDate": "26 Feb 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-1inch/"
+  },
+  {
+    "projectName": "PeakDeFi Fund",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Fund-[22-Jul-2021].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "22 Jul 2021",
+    "publicationDate": "9 Feb 2022",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
   },
   {
     "projectName": "Tranche",
