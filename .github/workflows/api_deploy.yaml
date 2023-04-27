@@ -10,7 +10,7 @@ jobs:
       name: ${GITHUB_REPOSITORY#*/}"-dev"
       key: "sec_ssh"
       stamp: ${GITHUB_SHA}
-      host: ${{ secrets.API_HOST_IP}}
+      host: ${{ secrets.API_HOST_IP }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
