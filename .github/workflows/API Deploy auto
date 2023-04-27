@@ -1,0 +1,44 @@
+name: API Deploy test
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      name: ${GITHUB_REPOSITORY#*/}"-dev"
+      key: "sec_ssh"
+      stamp: ${GITHUB_SHA}
+      host: ${{ secrets.API_HOST_IP }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up environment variables
+        env:
+          PORT: ${{ vars.PORT }}
+        run: |
+          echo "PORT=$PORT" >> .env
+      - name: Build docker
+        run: |
+          docker build . -t ${{ env.name }}-${{ env.stamp }}
+      - name: Save image
+        run: |
+          docker save -o ${{ env.name }}-${{ env.stamp }}.tar ${{ env.name }}-${{ env.stamp }}
+      - name: Save secret key
+        run: |
+          echo "${{ secrets.API_SSH }}" > ${key}
+          sudo chmod 600 ${key}
+      - name: Copy image
+        run: |
+          scp -i ${key} -o "StrictHostKeyChecking no" ${{ env.name }}-${{ env.stamp }}.tar ${{ env.host }}:${{ env.name }}-${{ env.stamp }}.tar
+      - name: Start image
+        run: |
+          ssh -i ${key} -o "StrictHostKeyChecking no" ${{ env.host }} 'sudo docker load -i '${{ env.name }}'-'${{ env.stamp }}'.tar; \
+          sudo docker stop '${{ env.name }}' || true; \
+          sudo docker run -d --restart always -p 3000:3000 --name '${{ env.name }}'-new '${{ env.name }}'-'${{ env.stamp }}'; \
+          sudo docker rm '${{ env.name }}' || true; sudo docker rmi $(sudo docker images -q) || true; \
+          sudo docker rename '${{ env.name }}'-new '${{ env.name }}'; rm '${{ env.name }}'-'${{ env.stamp }}'.tar'
