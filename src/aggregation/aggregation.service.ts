@@ -16,7 +16,18 @@ export class AggregationService {
   getAggregation(skip: number): IAggregationStruct {
     const total = this.aggregation.length;
     const end = skip + this.limit < total ? skip + this.limit : total;
-    const sliced = this.aggregation.slice(skip, end);
+    const sliced = this.aggregation.slice(skip, end).map((v) => {
+      const reportDateTimestamp = new Date(v.reportDate).valueOf();
+      const publicationDateTimestamp = new Date(v.publicationDate).valueOf();
+      //TBD: date/time format
+      v.reportDate = !isNaN(reportDateTimestamp)
+        ? reportDateTimestamp.toString()
+        : '';
+      v.publicationDate = !isNaN(publicationDateTimestamp)
+        ? publicationDateTimestamp.toString()
+        : '';
+      return v;
+    });
     return {
       data: sliced,
       skip,

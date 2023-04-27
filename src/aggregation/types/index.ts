@@ -2,7 +2,9 @@ export interface IAggregationResponse {
   projectName: string;
   contractPlatform: string;
   lang: string;
-  auditTime: string;
+  reportDate: string;
+  publicationDate: string;
+  caseUrl: string;
   reportUrl: string;
 }
 
