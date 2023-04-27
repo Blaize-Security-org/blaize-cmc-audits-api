@@ -234,12 +234,39 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
   },
   {
-    "projectName": "Tranche",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche",
+    "projectName": "Tranche Compound (by Jibrel)(Security Audit v1)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-compound-security-audit-v1-[29-Mar-2021].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
     "reportDate": "29 Mar 2021",
-    "publicationDate": "Jan 2022",
+    "publicationDate": "8 Feb 2021",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
+  },
+  {
+    "projectName": "Tranche Staking (by Jibrel)(Security Audit V1)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-staking-security-audit-v1-[17-Mar-2021].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "17 Mar 2021",
+    "publicationDate": "8 Feb 2021",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
+  },
+  {
+    "projectName": "Tranche (by Jibrel)(Security Review)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-security-review-[21-Jan-2021].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "21 Jan 2021",
+    "publicationDate": "8 Feb 2021",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
+  },
+  {
+    "projectName": "Tranche (by Jibrel)(Security Expertise V1)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-security-expertise-v1-[19-Jan-2021].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "19 Jan 2021",
+    "publicationDate": "8 Feb 2021",
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
   }
 ]
