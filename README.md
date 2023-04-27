@@ -1,6 +1,21 @@
 # blaize-cmc-audits-api
 
-## Endpoints: 
+## Installation
+1. Download project using <code>git clone</code> or use the program <code>GitHub Desktop</code>
+2. Create file .env at the root of the project, and fill it with the content from the file env.xmpl
+3. Run the following commands in the project console
+
+- <code>yarn </code> <br />
+- <code>yarn build</code> <br />
+- <code>yarn start</code>
+
+# Env dependencies
+
+| Value             | Description           |
+| ----------------- | ----------------------|
+| PORT              | Default value is 3000 |
+
+# Endpoints: 
 ### CMC audits
 - GET:  /api/cmc
 - Response:
