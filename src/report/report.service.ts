@@ -1,22 +1,22 @@
 import { Injectable } from '@nestjs/common';
-import { IAggregationResponse, IAggregationStruct } from './types';
+import { IReportResponse, IReportStruct } from './types';
 import { readFileSync } from 'fs';
 import * as path from 'path';
 import { assertParse } from 'typia';
 
 @Injectable()
-export class AggregationService {
-  private aggregation: Array<IAggregationResponse>;
+export class ReportService {
+  private reports: Array<IReportResponse>;
   private limit = 100;
   constructor() {
-    const filePath = path.join('storage', 'aggregation.json');
+    const filePath = path.join('storage', 'reports.json');
     const rawData = readFileSync(filePath, 'utf-8');
-    this.aggregation = assertParse<Array<IAggregationResponse>>(rawData);
+    this.reports = assertParse<Array<IReportResponse>>(rawData);
   }
-  getAggregation(skip: number): IAggregationStruct {
-    const total = this.aggregation.length;
+  getReport(skip: number): IReportStruct {
+    const total = this.reports.length;
     const end = skip + this.limit < total ? skip + this.limit : total;
-    const sliced = this.aggregation.slice(skip, end).map((v) => {
+    const sliced = this.reports.slice(skip, end).map((v) => {
       const reportDateTimestamp = new Date(v.reportDate).valueOf();
       const publicationDateTimestamp = new Date(v.publicationDate).valueOf();
       //TBD: date/time format

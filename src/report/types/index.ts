@@ -1,4 +1,4 @@
-export interface IAggregationResponse {
+export interface IReportResponse {
   projectName: string;
   contractPlatform: string;
   lang: string;
@@ -8,8 +8,8 @@ export interface IAggregationResponse {
   reportUrl: string;
 }
 
-export interface IAggregationStruct {
-  data: IAggregationResponse[];
+export interface IReportStruct {
+  data: IReportResponse[];
   skip: number;
   total: number;
 }
