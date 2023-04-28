@@ -64,8 +64,8 @@
 ]
 ```
 ---
-### Aggregation audits:
-- GET: /api/aggregation?skip=[number>=0]
+### Audit reports:
+- GET: /api/reports?skip=[number>=0]
 - Response:
 ```
 {
