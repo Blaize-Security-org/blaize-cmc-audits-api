@@ -57,7 +57,7 @@
     "projectName": "Title Deeds CEX by Viewpoint",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeedsCEX-audit-report-v1-[13-Feb-2023].pdf",
     "lang": "Solidity",
-    "contractPlatform": "Ethereum, BNB Chain",
+    "contractPlatform": "Ethereum,BNB Chain",
     "reportDate": "13 Feb 2023",
     "publicationDate": "1 Mar 2023",
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-title-deeds-cex-by-viewpoint-labs/"
@@ -101,8 +101,8 @@
   {
     "projectName": "Rainbow Bridge by Aurora",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf",
-    "lang": "Solidity, Rust",
-    "contractPlatform": "Ethereum, NEAR",
+    "lang": "Solidity,Rust",
+    "contractPlatform": "Ethereum,NEAR",
     "reportDate": "5 Oct 2022",
     "publicationDate": "14 Mar 2023",
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/"
@@ -110,8 +110,8 @@
   {
     "projectName": "Rainbow Bridge (by Aurora)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf",
-    "lang": "Solidity, Rust",
-    "contractPlatform": "Ethereum, NEAR",
+    "lang": "Solidity,Rust",
+    "contractPlatform": "Ethereum,NEAR",
     "reportDate": "5 Oct 2022",
     "publicationDate": "14 Mar 2023",
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/"

@@ -71,25 +71,37 @@
 {
    "data":[
       {
-         "projectName":"Pancake1",
-         "contractPlatform":"BSC",
-         "lang":"Rust/Solidity",
-         "auditTime":"2020-10-13T00:12:12Z",
-         "reportUrl":"xxxxx"
+         "projectName":"Veritty",
+         "reportUrl":"https://github.com/blaize-security/blaize-security-audits/blob/main/v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf",
+         "lang":[
+            "Solidity"
+         ],
+         "contractPlatform":"Ethereum",
+         "reportDate":"1680037200000",
+         "publicationDate":"",
+         "caseUrl":""
       },
       {
-         "projectName":"Pancake2",
-         "contractPlatform":"BSC",
-         "lang":"Rust/Solidity",
-         "auditTime":"2020-10-13T00:12:12Z",
-         "reportUrl":"xxxxx"
+         "projectName":"Gerobi",
+         "reportUrl":"https://github.com/blaize-security/blaize-security-audits/blob/main/g/gerobi/Gerobi-audit-report-v1-[27-Mar-2023].pdf",
+         "lang":[
+            "Solidity"
+         ],
+         "contractPlatform":"Aurora",
+         "reportDate":"1679864400000",
+         "publicationDate":"1680987600000",
+         "caseUrl":"https://blaize.tech/clients/smart-contract-security-audit-for-gerobi/"
       },
       {
-         "projectName":"Pancake3",
-         "contractPlatform":"BSC",
-         "lang":"Rust/Solidity",
-         "auditTime":"2020-10-13T00:12:12Z",
-         "reportUrl":"xxxxx"
+         "projectName":"Binaryx",
+         "reportUrl":"https://github.com/blaize-security/blaize-security-audits/blob/main/b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf",
+         "lang":[
+            "Solidity"
+         ],
+         "contractPlatform":"Polygon",
+         "reportDate":"1679436000000",
+         "publicationDate":"1679608800000",
+         "caseUrl":"https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/"
       }
    ],
    "skip":0,

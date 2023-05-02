@@ -26,6 +26,8 @@ export class ReportService {
       v.publicationDate = !isNaN(publicationDateTimestamp)
         ? publicationDateTimestamp.toString()
         : '';
+      const langString = v.lang as string;
+      v.lang = langString.split(',');
       return v;
     });
     return {
