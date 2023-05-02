@@ -1,15 +1,28 @@
-export interface IReportResponse {
+export interface IReportJson {
   projectName: string;
+  reportUrl: string;
+  lang: string;
   contractPlatform: string;
-  lang: string | string[];
   reportDate: string;
   publicationDate: string;
   caseUrl: string;
-  reportUrl: string;
 }
 
 export interface IReportStruct {
-  data: IReportResponse[];
-  skip: number;
+  id: string;
+  projectName: string;
+  reportUrl: string;
+  lang: string[];
+  contractPlatform: string;
+  reportDate: string;
+  publicationDate: string;
+  caseUrl: string;
+}
+
+export interface IReportResponse {
+  data: IReportStruct[];
+  page: number;
+  per_page: number;
+  total_pages: number;
   total: number;
 }

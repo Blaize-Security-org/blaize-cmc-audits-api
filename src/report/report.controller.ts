@@ -1,16 +1,16 @@
 import { Controller, Get, Query } from '@nestjs/common';
-import { IReportStruct } from './types';
 import { ReportService } from './report.service';
+import { IReportResponse } from './types';
 
 @Controller('reports')
 export class ReportController {
-  constructor(private readonly ReportService: ReportService) {}
+  constructor(private readonly report: ReportService) {}
   @Get()
-  getReport(@Query('skip') skip: string): IReportStruct {
-    let skipValue: number = parseInt(skip, 10);
-    if (isNaN(skipValue)) {
-      skipValue = 0;
+  getReport(@Query('page') page: string): IReportResponse {
+    let pageValue: number = parseInt(page, 10);
+    if (isNaN(pageValue)) {
+      pageValue = 1;
     }
-    return this.ReportService.getReport(skipValue);
+    return this.report.getByPage(pageValue);
   }
 }

@@ -65,12 +65,17 @@
 ```
 ---
 ### Audit reports:
-- GET: /api/reports?skip=[number>=0]
+- GET: /api/reports?page=[number>=0]
 - Response:
 ```
 {
+   "page":1,
+   "per_page":10,
+   "total_pages":3,
+   "total":30,
    "data":[
       {
+         "id":"k3D24CDrFHMkfi7z6xHrbT27GNcpk2-89iV9aQuvs0A",
          "projectName":"Veritty",
          "reportUrl":"https://github.com/blaize-security/blaize-security-audits/blob/main/v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf",
          "lang":[
@@ -82,6 +87,7 @@
          "caseUrl":""
       },
       {
+         "id":"ypG26YIjSmPhqEh9e_FUlHdGvB8r11N1h5gwTnvwX_0",
          "projectName":"Gerobi",
          "reportUrl":"https://github.com/blaize-security/blaize-security-audits/blob/main/g/gerobi/Gerobi-audit-report-v1-[27-Mar-2023].pdf",
          "lang":[
@@ -91,20 +97,7 @@
          "reportDate":"1679864400000",
          "publicationDate":"1680987600000",
          "caseUrl":"https://blaize.tech/clients/smart-contract-security-audit-for-gerobi/"
-      },
-      {
-         "projectName":"Binaryx",
-         "reportUrl":"https://github.com/blaize-security/blaize-security-audits/blob/main/b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf",
-         "lang":[
-            "Solidity"
-         ],
-         "contractPlatform":"Polygon",
-         "reportDate":"1679436000000",
-         "publicationDate":"1679608800000",
-         "caseUrl":"https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/"
       }
-   ],
-   "skip":0,
-   "total":10
+   ]
 }
 ```
