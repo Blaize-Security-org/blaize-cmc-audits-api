@@ -14,9 +14,10 @@ export class ReportService {
     this.reports = assertParse<Array<IReportResponse>>(rawData);
   }
   getReport(skip: number): IReportStruct {
+    const reports = JSON.parse(JSON.stringify(this.reports));
     const total = this.reports.length;
     const end = skip + this.limit < total ? skip + this.limit : total;
-    const sliced = this.reports.slice(skip, end).map((v) => {
+    const sliced = reports.slice(skip, end).map((v) => {
       const reportDateTimestamp = new Date(v.reportDate).valueOf();
       const publicationDateTimestamp = new Date(v.publicationDate).valueOf();
       //TBD: date/time format
