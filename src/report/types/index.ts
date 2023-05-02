@@ -1,7 +1,7 @@
 export interface IReportResponse {
   projectName: string;
   contractPlatform: string;
-  lang: string;
+  lang: string | string[];
   reportDate: string;
   publicationDate: string;
   caseUrl: string;
