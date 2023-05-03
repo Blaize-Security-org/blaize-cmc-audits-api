@@ -13,7 +13,7 @@ export interface IReportStruct {
   projectName: string;
   reportUrl: string;
   lang: string[];
-  contractPlatform: string;
+  contractPlatform: string[];
   reportDate: string;
   publicationDate: string;
   caseUrl: string;

@@ -70,8 +70,8 @@
 ```
 {
    "page":1,
-   "per_page":10,
-   "total_pages":3,
+   "per_page":3,
+   "total_pages":10,
    "total":30,
    "data":[
       {
@@ -81,7 +81,9 @@
          "lang":[
             "Solidity"
          ],
-         "contractPlatform":"Ethereum",
+         "contractPlatform":[
+            "Ethereum"
+         ],
          "reportDate":"1680037200000",
          "publicationDate":"",
          "caseUrl":""
@@ -93,10 +95,26 @@
          "lang":[
             "Solidity"
          ],
-         "contractPlatform":"Aurora",
+         "contractPlatform":[
+            "Aurora"
+         ],
          "reportDate":"1679864400000",
          "publicationDate":"1680987600000",
          "caseUrl":"https://blaize.tech/clients/smart-contract-security-audit-for-gerobi/"
+      },
+      {
+         "id":"EYqM-1_S2CfAkNWfiNXBhJKYfHAasALfM1m7fLxf9_s",
+         "projectName":"Binaryx",
+         "reportUrl":"https://github.com/blaize-security/blaize-security-audits/blob/main/b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf",
+         "lang":[
+            "Solidity"
+         ],
+         "contractPlatform":[
+            "Polygon"
+         ],
+         "reportDate":"1679436000000",
+         "publicationDate":"1679608800000",
+         "caseUrl":"https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/"
       }
    ]
 }

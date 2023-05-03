@@ -46,6 +46,7 @@ export class ReportService {
         ? publicationDateTimestamp.toString()
         : '';
       const lang = v.lang.split(',');
+      const contractPlatform = v.contractPlatform.split(',');
       const id = hashCode(v.reportUrl);
       return {
         id,
@@ -53,6 +54,7 @@ export class ReportService {
         reportDate,
         publicationDate,
         lang,
+        contractPlatform,
       };
     });
     return {
