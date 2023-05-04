@@ -1,3 +1,9 @@
+import { Transform } from 'class-transformer';
+import { IsOptional } from 'class-validator';
+
+export const DEFAULT_PER_PAGE = 10;
+export const DEFAULT_PAGE = 1;
+
 export interface IReportJson {
   projectName: string;
   reportUrl: string;
@@ -25,4 +31,20 @@ export interface IReportResponse {
   per_page: number;
   total_pages: number;
   total: number;
+}
+
+export class QueryDTO {
+  @Transform(({ value }) => {
+    const valNum = parseInt(value, 10);
+    return isNaN(valNum) ? DEFAULT_PAGE : valNum;
+  })
+  @IsOptional()
+  page: number;
+
+  @Transform(({ value }) => {
+    const valNum = parseInt(value, 10);
+    return isNaN(valNum) ? DEFAULT_PER_PAGE : valNum;
+  })
+  @IsOptional()
+  perPage: number;
 }
