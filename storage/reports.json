@@ -36,7 +36,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-synthex/"
   },
   {
-    "projectName": "Everstake",
+    "projectName": "Everstake (Security Audit v1)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-audit-report-v1-[10-Mar-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -54,7 +54,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-tokendeal-protocol-for-nft-sales/"
   },
   {
-    "projectName": "Title Deeds CEX by Viewpoint",
+    "projectName": "Title Deeds CEX (by Viewpoint)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeedsCEX-audit-report-v1-[13-Feb-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum,BNB Chain",
@@ -63,7 +63,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-title-deeds-cex-by-viewpoint-labs/"
   },
   {
-    "projectName": "Liquid Access NFT",
+    "projectName": "Liquid Access NFT (Security Audit v2)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/liquidaccess/LiquidAccessNFT-audit-report-v2-[10-Feb-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -72,7 +72,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
   },
   {
-    "projectName": "Kale Bridge by Bluelight",
+    "projectName": "Kale Bridge (by Bluelight)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/bluelight/KaleBridge-audit-report-v1-[30-Jan-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -90,22 +90,13 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cupcake-nft-app/"
   },
   {
-    "projectName": "Liquid Access NFT",
+    "projectName": "Liquid Access NFT (Security Audit v1)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/liquidaccess/LiquidAccessNFT-audit-report-v1-[28-Nov-2022].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
     "reportDate": "28 Nov 2022",
     "publicationDate": "22 Dec 2022",
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
-  },
-  {
-    "projectName": "Rainbow Bridge by Aurora",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf",
-    "lang": "Solidity,Rust",
-    "contractPlatform": "Ethereum,NEAR",
-    "reportDate": "5 Oct 2022",
-    "publicationDate": "14 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/"
   },
   {
     "projectName": "Rainbow Bridge (by Aurora)",
@@ -144,7 +135,7 @@
     "caseUrl": ""
   },
   {
-    "projectName": "Aurora (staking)",
+    "projectName": "Aurora (Staking)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/Aurora-audit-report-v1-[7-Jun-2022].pdf",
     "lang": "Solidity",
     "contractPlatform": "Aurora",
@@ -171,7 +162,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-crypto-collective/"
   },
   {
-    "projectName": "Nemus",
+    "projectName": "Nemus (Security Audit v2)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v2-[14-Mar-2022].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -180,7 +171,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-nemus/"
   },
   {
-    "projectName": "Nemus",
+    "projectName": "Nemus (Security Audit v1)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v1-[18-Feb-2022].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -189,7 +180,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-nemus/"
   },
   {
-    "projectName": "PeakDeFi Launchpad",
+    "projectName": "PeakDeFi (Launchpad)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Lauchpad-[2-Feb-2022].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -207,7 +198,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cryptobear-watch-club/"
   },
   {
-    "projectName": "PeakDeFi Governance",
+    "projectName": "PeakDeFi (Governance)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Governance-[15-Dec-2021].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -225,7 +216,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-1inch/"
   },
   {
-    "projectName": "PeakDeFi Fund",
+    "projectName": "PeakDeFi (Fund)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Fund-[22-Jul-2021].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -234,7 +225,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
   },
   {
-    "projectName": "Tranche Compound (by Jibrel)(Security Audit v1)",
+    "projectName": "Tranche Compound (by Jibrel)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-compound-security-audit-v1-[29-Mar-2021].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -243,7 +234,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
   },
   {
-    "projectName": "Tranche Staking (by Jibrel)(Security Audit V1)",
+    "projectName": "Tranche Staking (by Jibrel)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-staking-security-audit-v1-[17-Mar-2021].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -261,7 +252,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
   },
   {
-    "projectName": "Tranche (by Jibrel)(Security Expertise V1)",
+    "projectName": "Tranche (by Jibrel)(Security Expertise)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-security-expertise-v1-[19-Jan-2021].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
