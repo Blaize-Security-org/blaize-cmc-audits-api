@@ -12,32 +12,13 @@ import { hashCode } from '../utils';
 
 @Injectable()
 export class ReportService {
-  private reports: Array<IReportJson>;
-  private total;
+  private reports: Array<IReportStruct>;
 
   constructor() {
     const filePath = path.join('storage', 'reports.json');
     const rawData = readFileSync(filePath, 'utf-8');
-    this.reports = assertParse<Array<IReportJson>>(rawData);
-    this.total = this.reports.length;
-  }
-
-  private getReports(): Array<IReportJson> {
-    // structuredClone(this.reports);
-    return JSON.parse(JSON.stringify(this.reports));
-  }
-
-  getByPage(page = 1, perPage = DEFAULT_PER_PAGE): IReportResponse {
-    const totalPages = Math.ceil(this.total / perPage);
-    if (page > totalPages || page < 1)
-      throw new BadRequestException("page doesn't exist");
-
-    const reports = this.getReports();
-
-    const end = perPage * page;
-    const start = end - perPage;
-
-    const sliced = reports.slice(start, end).map((v): IReportStruct => {
+    const reportJson = assertParse<Array<IReportJson>>(rawData);
+    this.reports = reportJson.map((v): IReportStruct => {
       const reportDateTimestamp = new Date(v.reportDate).valueOf();
       const publicationDateTimestamp = new Date(v.publicationDate).valueOf();
       //TBD: date/time format
@@ -59,11 +40,41 @@ export class ReportService {
         contractPlatform,
       };
     });
+  }
+
+  //Note: 'deep' clonning func
+  private getReports(): Array<IReportStruct> {
+    // structuredClone(this.reports);
+    return JSON.parse(JSON.stringify(this.reports));
+  }
+
+  getByPage(
+    page = 1,
+    perPage = DEFAULT_PER_PAGE,
+    projectFilter?: string,
+  ): IReportResponse {
+    let reports = this.getReports();
+    if (projectFilter) {
+      reports = reports.filter((v) =>
+        v.projectName.toLowerCase().includes(projectFilter.toLowerCase()),
+      );
+    }
+
+    const totalPages = Math.round(reports.length / perPage) || 1;
+
+    if (page > totalPages || page < 1)
+      throw new BadRequestException("page doesn't exist");
+
+    const end = perPage * page;
+    const start = end - perPage;
+
+    const sliced = reports.slice(start, end);
+
     return {
       page,
       per_page: perPage,
       total_pages: totalPages,
-      total: this.total,
+      total: reports.length,
       data: sliced,
     };
   }
