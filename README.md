@@ -65,7 +65,7 @@
 ```
 ---
 ### Audit reports:
-- GET: /api/reports?page=[number>=0]&perPage=[number>=0]
+- GET: /api/reports?page=[number>=0]&perPage=[number>=0]&search=[searchstring]
 - Response:
 ```
 {

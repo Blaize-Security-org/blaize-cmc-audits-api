@@ -47,4 +47,7 @@ export class QueryDTO {
   })
   @IsOptional()
   perPage: number;
+
+  @IsOptional()
+  search: string;
 }
