@@ -7,8 +7,7 @@ export class ReportController {
   constructor(private readonly report: ReportService) {}
   @Get()
   getReport(@Query() query: QueryDTO): IReportResponse {
-    const { page, perPage } = query;
-
-    return this.report.getByPage(page, perPage);
+    const { page, perPage, search } = query;
+    return this.report.getByPage(page, perPage, search);
   }
 }
