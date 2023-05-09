@@ -9,6 +9,15 @@
     "caseUrl": ""
   },
   {
+    "projectName": "Everstake (B2C)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-B2C-audit-report-v1-[2-May-2023].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "2 May 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
     "projectName": "Veritty",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf",
     "lang": "Solidity",
@@ -45,7 +54,7 @@
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-synthex/"
   },
   {
-    "projectName": "Everstake (Security Audit v1)",
+    "projectName": "Everstake (B2B)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-audit-report-v1-[10-Mar-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
