@@ -10,7 +10,11 @@ export class CmcService {
   constructor() {
     const filePath = path.join('storage', 'cmc_audits.json');
     const rawData = readFileSync(filePath, 'utf-8');
-    this.audits = assertParse<Array<IAuditResponse>>(rawData);
+    const auditsJson = assertParse<Array<IAuditResponse>>(rawData);
+    this.audits = auditsJson.map((v) => {
+      if (!v.coinId) v.coinId = null;
+      return v;
+    });
   }
   getAudits() {
     return this.audits;
