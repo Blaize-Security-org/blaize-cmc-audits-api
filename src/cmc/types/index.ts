@@ -1,5 +1,5 @@
 export interface IAuditResponse {
-  coinId: number; // CMC ID
+  coinId?: number; // CMC ID
   coinName: string;
   symbol: string; // if cmc id can be provided, symbol is not required
   auditor: string; //e.g. Certik, Hacken
