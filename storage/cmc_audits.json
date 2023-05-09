@@ -39,5 +39,77 @@
                 "msg": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/bluelight/KaleBridge-audit-report-v1-[30-Jan-2023].pdf"
             }
         ]
+    },
+    {
+        "coinId": 8104,
+        "coinName": "1inch Network",
+        "symbol": "1INCH",
+        "auditor": "Blaize.Security",
+        "auditStatus": 2,
+        "auditTime": "2021-11-05T12:00:00Z",
+        "contractAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "contractPlatform": "Ethereum",
+        "score": 100,
+        "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/1/1inch/1inch-audit-report-v1-[5-Nov-2021].pdf",
+        "overview": [
+            {
+                "name": "Limit Orders security audit",
+                "score": 100,
+                "msg": "https://github.com/blaize-security/blaize-security-audits/blob/main/1/1inch/1inch-audit-report-v1-[5-Nov-2021].pdf"
+            }
+        ]
+    },
+    {
+        "coinId": 5354,
+        "coinName": "PEAKDEFI",
+        "symbol": "PEAK",
+        "auditor": "Blaize.Security",
+        "auditStatus": 2,
+        "auditTime": "2021-12-15T12:00:00Z",
+        "contractAddress": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+        "contractPlatform": "Ethereum",
+        "score": 95,
+        "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Governance-[15-Dec-2021].pdf",
+        "overview": [
+            {
+                "name": "PeakDeFi Governance security audit",
+                "score": 95,
+                "msg": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Governance-[15-Dec-2021].pdf"
+            },
+            {
+                "name": "PeakDeFi Launchpad security audit",
+                "score": 97,
+                "msg": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Lauchpad-[2-Feb-2022].pdf"
+            },
+            {
+                "name": "PeakDeFi Fund security audit",
+                "score": 98,
+                "msg": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Fund-[22-Jul-2021].pdf"
+            }
+        ]
+    },
+    {
+        "coinId": 8637,
+        "coinName": "Tranche Finance",
+        "symbol": "SLICE",
+        "auditor": "Blaize.Security",
+        "auditStatus": 2,
+        "auditTime": "2021-03-29T12:00:00Z",
+        "contractAddress": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
+        "contractPlatform": "Ethereum",
+        "score": 99,
+        "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-compound-security-audit-v1-[29-Mar-2021].pdf",
+        "overview": [
+            {
+                "name": "Tranche lending security audit",
+                "score": 99,
+                "msg": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-compound-security-audit-v1-[29-Mar-2021].pdf"
+            },
+            {
+                "name": "Tranche Staking security audit",
+                "score": 97,
+                "msg": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-staking-security-audit-v1-%5B17-Mar-2021%5D.pdf"
+            }
+        ]
     }
 ]
