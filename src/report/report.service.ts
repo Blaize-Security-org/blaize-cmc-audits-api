@@ -54,14 +54,14 @@ export class ReportService {
     projectFilter?: string,
   ): IReportResponse {
     let reports = this.getReports();
+    console.log(reports.length, 'jfosdgodfk');
     if (projectFilter) {
       reports = reports.filter((v) =>
         v.projectName.toLowerCase().includes(projectFilter.toLowerCase()),
       );
     }
 
-    const totalPages = Math.round(reports.length / perPage) || 1;
-
+    const totalPages = Math.ceil(reports.length / perPage) || 1;
     if (page > totalPages || page < 1)
       throw new BadRequestException("page doesn't exist");
 
