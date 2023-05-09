@@ -60,8 +60,7 @@ export class ReportService {
       );
     }
 
-    const totalPages = Math.round(reports.length / perPage) || 1;
-
+    const totalPages = Math.ceil(reports.length / perPage) || 1;
     if (page > totalPages || page < 1)
       throw new BadRequestException("page doesn't exist");
 
