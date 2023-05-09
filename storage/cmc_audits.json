@@ -22,5 +22,22 @@
     "contractPlatform": "Arbitrum",
     "score": 96,
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/synthex/Synthex-audit-report-v1-[16-Mar-2023].pdf",
+  },
+  {
+    "coinId": 22385,
+    "coinName": "Bluelight",
+    "symbol": "KALE",
+    "auditor": "Blaize.Security",
+    "auditStatus": 2,
+    "auditTime": "2023-01-30T12:00:00Z",
+    "contractAddress": "0x508626d9a29D13EbA26F843A2BD7bF7b00a45be5",
+    "contractPlatform": "Ethereum",
+    "score": 98,
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/bluelight/KaleBridge-audit-report-v1-[30-Jan-2023].pdf",
+    "overview":[{
+ 	    "name": "Security Audit",
+        "score": 98,
+        "msg":"Kale Bridge security audit"
+    }],
   }
 ]
