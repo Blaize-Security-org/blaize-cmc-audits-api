@@ -54,7 +54,6 @@ export class ReportService {
     projectFilter?: string,
   ): IReportResponse {
     let reports = this.getReports();
-    console.log(reports.length, 'jfosdgodfk');
     if (projectFilter) {
       reports = reports.filter((v) =>
         v.projectName.toLowerCase().includes(projectFilter.toLowerCase()),
