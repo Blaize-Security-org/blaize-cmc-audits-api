@@ -1,11 +1,11 @@
 [
   {
-    "projectName": "01node (confidential)",
-    "reportUrl": "",
+    "projectName": "01node",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/0/01node/01node-audit-report-v1-[22-Aug-2023].pdf",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
-    "reportDate": "28 August 2023",
-    "publicationDate": "",
+    "reportDate": "22 August 2023",
+    "publicationDate": "28 August 2023",
     "caseUrl": ""
   },
   {
