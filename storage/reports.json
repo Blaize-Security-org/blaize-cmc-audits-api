@@ -1,5 +1,23 @@
 [
   {
+    "projectName": "Cryptopia",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptopia/Cryptopia-audit-report-v1-[31-Aug-2023].pdf",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "31 August 2023",
+    "publicationDate": "31 August 2023",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "AraFi (by Aerarium)",
+    "reportUrl": "",
+    "lang": "Solidity",
+    "contractPlatform": "Metis",
+    "reportDate": "30 August 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
     "projectName": "01node",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/0/01node/01node-audit-report-v1-[22-Aug-2023].pdf",
     "lang": "Solidity",
