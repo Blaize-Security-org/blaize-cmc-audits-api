@@ -18,7 +18,7 @@ export class ReportService {
     const filePath = path.join('storage', 'reports.json');
     const rawData = readFileSync(filePath, 'utf-8');
     const reportJson = assertParse<Array<IReportJson>>(rawData);
-    this.reports = reportJson.map((v): IReportStruct => {
+    this.reports = reportJson.map((v, index): IReportStruct => {
       const reportDateTimestamp = new Date(v.reportDate).valueOf();
       const publicationDateTimestamp = new Date(v.publicationDate).valueOf();
       //TBD: date/time format
@@ -30,7 +30,7 @@ export class ReportService {
         : '';
       const lang = v.lang.split(',');
       const contractPlatform = v.contractPlatform.split(',');
-      const id = hashCode(v.reportUrl);
+      const id = hashCode(index + v.projectName);
       return {
         id,
         ...v,
