@@ -1,5 +1,15 @@
 [
   {
+    "projectName": "CoinSender",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "CsomWasm",
+    "contractPlatform": "Cosmos",
+    "reportDate": "22 September 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
     "projectName": "Synapse Bridge (by Humans Blockchain team)",
     "reportUrl": "",
     "service": "Bridge Audit",
