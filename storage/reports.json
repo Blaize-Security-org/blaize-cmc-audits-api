@@ -1,7 +1,7 @@
 [
   {
     "projectName": "CoinSender",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/coinsender/CoinSender-audit-report-v1-[25-Sep-2023].pdf",
     "service": "SC Audit",
     "lang": "CosmWasm",
     "contractPlatform": "Cosmos",
