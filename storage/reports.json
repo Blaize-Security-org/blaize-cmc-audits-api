@@ -4,10 +4,10 @@
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/coinsender/CoinSender-audit-report-v1-[25-Sep-2023].pdf",
     "service": "SC Audit",
     "lang": "CosmWasm",
-    "contractPlatform": "Cosmos",
+    "contractPlatform": "Cosmos,Injective Chain",
     "reportDate": "22 September 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "27 September 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-coinsender/"
   },
   {
     "projectName": "Synapse Bridge (by Humans Blockchain team)",
