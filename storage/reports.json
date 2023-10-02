@@ -1,5 +1,15 @@
 [
   {
+    "projectName": "StarkDeFi",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Cairo",
+    "contractPlatform": "StarkNet",
+    "reportDate": "29 September 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
     "projectName": "CoinSender",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/coinsender/CoinSender-audit-report-v1-[25-Sep-2023].pdf",
     "service": "SC Audit",
