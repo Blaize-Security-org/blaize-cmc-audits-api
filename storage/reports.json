@@ -1,4 +1,14 @@
 [
+    {
+    "projectName": "Sui Multisig (by Mysten Labs)",
+    "reportUrl": "",
+    "service": "SDK Audit",
+    "lang": "Rust",
+    "contractPlatform": "SUI",
+    "reportDate": "9 October 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
   {
     "projectName": "StarkDeFi",
     "reportUrl": "",
@@ -6,6 +16,16 @@
     "lang": "Cairo",
     "contractPlatform": "StarkNet",
     "reportDate": "29 September 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "Unigrid",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "27 September 2023",
     "publicationDate": "",
     "caseUrl": ""
   },
