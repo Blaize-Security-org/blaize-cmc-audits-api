@@ -21,7 +21,7 @@
   },
   {
     "projectName": "Unigrid",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/u/unigrid/Unigrid-audit-report-v1-[27-Sep-2023].pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
