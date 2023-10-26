@@ -1,5 +1,15 @@
 [
   {
+    "projectName": "FortiFi",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Avalanche",
+    "reportDate": "24 October 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
     "projectName": "StarkDeFi (2nd iteration)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf",
     "service": "SC Audit",
