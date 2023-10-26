@@ -6,8 +6,8 @@
     "lang": "Cairo",
     "contractPlatform": "StarkNet",
     "reportDate": "20 October 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "24 October 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audits-for-starkdefi/"
   },
   {
     "projectName": "Sui Multisig (by Mysten Labs)",
