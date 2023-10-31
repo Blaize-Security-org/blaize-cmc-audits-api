@@ -1,7 +1,7 @@
 [
   {
     "projectName": "FortiFi",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/f/fortifi/FortiFi-audit-report-[26-Oct-2023].pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Avalanche",
