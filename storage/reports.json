@@ -1,13 +1,53 @@
 [
   {
+    "projectName": "Purse token (by PundiX)",
+    "reportUrl": "",
+    "service": "ERC20 SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "21 November 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "Promethium (Rebalancer)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/promethium/Promethium-audit-report-v2-[20-Nov-2023].pdf",
+    "service": "Backend Audit",
+    "lang": "JS",
+    "contractPlatform": "Ethereum",
+    "reportDate": "20 November 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "Alfred",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "15 November 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "Promethium",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/promethium/Promethium-audit-report-v2-[20-Nov-2023].pdf",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "26 October 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
     "projectName": "FortiFi",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/f/fortifi/FortiFi-audit-report-[26-Oct-2023].pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Avalanche",
     "reportDate": "24 October 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "2 November 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-fortifi/"
   },
   {
     "projectName": "StarkDeFi (2nd iteration)",
@@ -21,13 +61,13 @@
   },
   {
     "projectName": "Sui Multisig (by Mysten Labs)",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sui/Sui-Multisig-(by-Mysten-labs)-audit-report-[9-Oct-2023].pdf",
     "service": "SDK Audit",
     "lang": "Rust",
     "contractPlatform": "SUI",
     "reportDate": "9 October 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "3 November 2023",
+    "caseUrl": "https://blaize.tech/clients/multisig-and-sdk-security-audits-for-mysten-labs/"
   },
   {
     "projectName": "StarkDeFi",
@@ -36,12 +76,12 @@
     "lang": "Cairo",
     "contractPlatform": "StarkNet",
     "reportDate": "29 September 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "24 October 2023",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audits-for-starkdefi/"
   },
   {
-    "projectName": "Unigrid",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/u/unigrid/Unigrid-audit-report-v1-[27-Sep-2023].pdf",
+    "projectName": "Unigreed",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/u/unigreed/Unigreed-audit-report-v1-[27-Sep-2023].pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -71,13 +111,13 @@
   },
   {
     "projectName": "Sui TS SDK (by Mysten Labs)",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sui/Sui-SDK-(by-Mysten-labs)-audit-report-[4-Sep-2023].pdf",
     "service": "SDK Audit",
     "lang": "Typescript",
     "contractPlatform": "SUI",
     "reportDate": "4 September 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "3 November 2023",
+    "caseUrl": "https://blaize.tech/clients/multisig-and-sdk-security-audits-for-mysten-labs/"
   },
   {
     "projectName": "Cryptopia",
