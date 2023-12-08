@@ -1,5 +1,15 @@
 [
   {
+    "projectName": "Alfred (2nd iteration)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "7 December 2023",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
     "projectName": "Purse token (by PundiX)",
     "reportUrl": "",
     "service": "ERC20 SC Audit",
@@ -16,8 +26,8 @@
     "lang": "JS",
     "contractPlatform": "Ethereum",
     "reportDate": "20 November 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "27 November 2023",
+    "caseUrl": "https://blaize.tech/clients/security-audit-for-promethium/"
   },
   {
     "projectName": "Alfred",
@@ -36,8 +46,8 @@
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
     "reportDate": "26 October 2023",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "27 November 2023",
+    "caseUrl": "https://blaize.tech/clients/security-audit-for-promethium/"
   },
   {
     "projectName": "FortiFi",
