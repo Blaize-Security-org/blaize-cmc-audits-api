@@ -1,5 +1,15 @@
 [
   {
+    "projectName": "Avax Apes",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/avaxapes/AvaxApes-Audit-Report-[25-Jan-2024].pdf",
+    "service": "NFT SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Avalanche",
+    "reportDate": "25 January 2024",
+    "publicationDate": "31 January 2024",
+    "caseUrl": ""
+  },
+  {
     "projectName": "Alfred (2nd iteration)",
     "reportUrl": "",
     "service": "SC Audit",
@@ -22,7 +32,7 @@
   {
     "projectName": "Promethium (Rebalancer)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/promethium/Promethium-audit-report-v2-[20-Nov-2023].pdf",
-    "service": "Backend Audit",
+    "service": "dApp (Backend) Audit",
     "lang": "JS",
     "contractPlatform": "Ethereum",
     "reportDate": "20 November 2023",
