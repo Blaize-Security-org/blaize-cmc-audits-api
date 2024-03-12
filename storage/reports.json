@@ -1,4 +1,34 @@
 [
+ {
+    "projectName": "Blockus",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/blockus/Blockus-(Sui)-audit-report-[12-Mar-2024].pdf",
+    "service": "NFT SC Audit",
+    "lang": "Move",
+    "contractPlatform": "Sui",
+    "reportDate": "11 March 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "Rumi",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Arbitrum",
+    "reportDate": "28 February 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+  },
+  {
+    "projectName": "StarkDeFi (Locker)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/starkdefi/StarkDeFi-Locker-audit-report-[19-Feb-2024].pdf",
+    "service": "SC Audit",
+    "lang": "Cairo",
+    "contractPlatform": "StarkNet",
+    "reportDate": "16 February 2024",
+    "publicationDate": "20 February 2024",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-starkdefis-liquidity-locker/"
+  },
   {
     "projectName": "Avax Apes",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/avaxapes/AvaxApes-Audit-Report-[25-Jan-2024].pdf",
