@@ -31,7 +31,7 @@
  },
  {
     "projectName": "Kadcast: Dusk networking protocol",
-    "reportUrl": "github.com/blaize-security/blaize-security-audits/blob/main/d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf",
     "service": "Blockchain Protocol Audit",
     "lang": "Rust",
     "contractPlatform": "Dusk",
