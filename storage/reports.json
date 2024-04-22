@@ -1,13 +1,73 @@
 [
  {
-    "projectName": "Blockus",
+    "projectName": "EMoney (by Scallop)",
+    "reportUrl": "",
+    "service": "SC Security Review",
+    "lang": "Solidity",
+    "contractPlatform": "Polygon",
+    "reportDate": "16 April 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+ },
+ {
+    "projectName": "Karrat",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "15 April 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+ },
+ {
+    "projectName": "Blockus (Splitter)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "14 April 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+ },
+ {
+    "projectName": "Kadcast: Dusk networking protocol",
+    "reportUrl": "github.com/blaize-security/blaize-security-audits/blob/main/d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf",
+    "service": "Blockchain Protocol Audit",
+    "lang": "Rust",
+    "contractPlatform": "Dusk",
+    "reportDate": "11 April 2024",
+    "publicationDate": "22 April 2024",
+    "caseUrl": ""
+ },
+ {
+    "projectName": "Smoofs",
+    "reportUrl": "",
+    "service": "Patch by Security Team",
+    "lang": "Solidity",
+    "contractPlatform": "Polygon",
+    "reportDate": "2 April 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+ },
+ {
+    "projectName": "Smoofs",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Polygon",
+    "reportDate": "25 March 2024",
+    "publicationDate": "29 March 2024",
+    "caseUrl": ""
+ },
+ {
+    "projectName": "Blockus (Sui NFT)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/blockus/Blockus-(Sui)-audit-report-[12-Mar-2024].pdf",
     "service": "NFT SC Audit",
     "lang": "Move",
     "contractPlatform": "Sui",
     "reportDate": "11 March 2024",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "21 March 2024",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-blockus/"
   },
   {
     "projectName": "Rumi",
@@ -28,6 +88,16 @@
     "reportDate": "16 February 2024",
     "publicationDate": "20 February 2024",
     "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-starkdefis-liquidity-locker/"
+  },
+  {
+    "projectName": "Alfred (3rd iteration)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "30 January 2023",
+    "publicationDate": "",
+    "caseUrl": ""
   },
   {
     "projectName": "Avax Apes",
