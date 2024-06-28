@@ -12,7 +12,7 @@
  {
     "projectName": "E Money Network (by Scallop)",
     "reportUrl": "",
-    "service": "V2 Post-audit patching",
+    "service": "Patching by Security Team",
     "lang": "Golang",
     "contractPlatform": "Cosmos, Evmos",
     "reportDate": "27 June 2024",
@@ -122,7 +122,7 @@
  {
     "projectName": "Smoofs",
     "reportUrl": "",
-    "service": "Patch by Security Team",
+    "service": "Post-audit patching",
     "lang": "Solidity",
     "contractPlatform": "Polygon",
     "reportDate": "2 April 2024",
