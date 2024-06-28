@@ -1,11 +1,11 @@
 [
    {
     "projectName": "DigitalOriginal",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/d/digitaloriginal/DigitalOriginal-audit-report-[28-Jun-2024].pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
-    "reportDate": "27 June 2024",
+    "reportDate": "28 June 2024",
     "publicationDate": "",
     "caseUrl": ""
   },
