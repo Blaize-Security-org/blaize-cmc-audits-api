@@ -8,7 +8,7 @@
     "reportDate": "27 June 2024",
     "publicationDate": "",
     "caseUrl": ""
- },
+  },
   {
     "projectName": "LFIT",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-[21-Jun-2024].pdf",
@@ -17,6 +17,16 @@
     "contractPlatform": "Klaytn",
     "reportDate": "21 June 2024",
     "publicationDate": "25 June 2024",
+    "caseUrl": ""
+ },
+ {
+    "projectName": "Rampstater (by Wallek)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Fantom",
+    "reportDate": "14 June 2024",
+    "publicationDate": "",
     "caseUrl": ""
  },
  {
