@@ -9,6 +9,16 @@
     "publicationDate": "",
     "caseUrl": ""
   },
+ {
+    "projectName": "E Money Network (by Scallop)",
+    "reportUrl": "",
+    "service": "Post-audit patching",
+    "lang": "Golang",
+    "contractPlatform": "Cosmos, Evmos",
+    "reportDate": "27 Jun 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+ },
   {
     "projectName": "LFIT",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-[21-Jun-2024].pdf",
@@ -26,6 +36,46 @@
     "lang": "Solidity",
     "contractPlatform": "Fantom",
     "reportDate": "14 June 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+ },
+ {
+    "projectName": "E Money Network (by Scallop)",
+    "reportUrl": "",
+    "service": "Blockchain Protocol Audit",
+    "lang": "Golang",
+    "contractPlatform": "Cosmos, Evmos",
+    "reportDate": "7 June 2024",
+    "publicationDate": "",
+    "caseUrl": "https://blaize.tech/clients/security-services-for-e-money-network-blockchain/"
+ },
+ {
+    "projectName": "E Money Network (by Scallop)",
+    "reportUrl": "",
+    "service": "Secure CI/CD integration",
+    "lang": "Golang",
+    "contractPlatform": "Cosmos, Evmos",
+    "reportDate": "31 May 2024",
+    "publicationDate": "",
+    "caseUrl": "https://blaize.tech/clients/security-services-for-e-money-network-blockchain/"
+ },
+ {
+    "projectName": "E Money Network (by Scallop)",
+    "reportUrl": "",
+    "service": "Post-audit patching",
+    "lang": "Golang",
+    "contractPlatform": "Cosmos, Evmos",
+    "reportDate": "31 May 2024",
+    "publicationDate": "",
+    "caseUrl": "https://blaize.tech/clients/security-services-for-e-money-network-blockchain/"
+ },
+ {
+    "projectName": "Blockus (Skale NFT)",
+    "reportUrl": "",
+    "service": "NFT SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Skale",
+    "reportDate": "31 May 2024",
     "publicationDate": "",
     "caseUrl": ""
  },
