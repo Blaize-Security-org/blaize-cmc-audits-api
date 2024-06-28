@@ -1,4 +1,14 @@
 [
+   {
+    "projectName": "DigitalOriginal",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "27 June 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+ },
   {
     "projectName": "LFIT",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-[21-Jun-2024].pdf",
