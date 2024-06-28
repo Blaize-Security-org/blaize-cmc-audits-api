@@ -1,4 +1,14 @@
 [
+  {
+    "projectName": "LFIT",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-[21-Jun-2024].pdf",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Klaytn",
+    "reportDate": "21 June 2024",
+    "publicationDate": "25 June 2024",
+    "caseUrl": ""
+ },
  {
     "projectName": "EMoney (by Scallop)",
     "reportUrl": "",
