@@ -41,7 +41,7 @@
  },
  {
     "projectName": "E Money Network (by Scallop)",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf",
     "service": "Blockchain Protocol Audit",
     "lang": "Golang",
     "contractPlatform": "Cosmos, Evmos",
@@ -51,7 +51,7 @@
  },
  {
     "projectName": "E Money Network (by Scallop)",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf",
     "service": "Secure CI/CD integration",
     "lang": "Golang",
     "contractPlatform": "Cosmos, Evmos",
@@ -61,7 +61,7 @@
  },
  {
     "projectName": "E Money Network (by Scallop)",
-    "reportUrl": "",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf",
     "service": "Post-audit patching",
     "lang": "Golang",
     "contractPlatform": "Cosmos, Evmos",
