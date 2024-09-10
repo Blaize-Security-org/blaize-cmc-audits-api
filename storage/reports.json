@@ -1,13 +1,53 @@
 [
    {
+    "projectName": "Karrat (marketplace)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "10 September 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "Drosera",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "30 August 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "LFIT (v2 report)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-v2-[30-Aug-2024].pdf",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Polygon",
+    "reportDate": "30 August 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "Brainstarter",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/brainstarter/BrainStarter-audit-report-[28-Aug-2024].pdf",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "28 August 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
     "projectName": "World Earn Play Community (WEPC)",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/w/wepc/WEPC-audit-report-[18-Jul-2024].pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
     "reportDate": "18 July 2024",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "26 July 2024",
+    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-wepc/"
    },
    {
     "projectName": "DigitalOriginal",
