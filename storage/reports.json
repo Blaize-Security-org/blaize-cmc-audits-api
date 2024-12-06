@@ -1,7 +1,7 @@
 [
    {
     "projectName": "Aut Labs (RepFi token suite)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/autlabs/Aut-Labs-(token-repfi)-audit-report-[4-Dec-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/autlabs/Aut-Labs-(token-repfi)-audit-report-%5B4-Dec-2024%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -21,7 +21,7 @@
    },
    {
     "projectName": "Lockon Finance (Adjuster)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lockon-finance/Lockon-(Adjuster)-audit-report-[15-Nov-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lockon-finance/Lockon-(Adjuster)-audit-report-%5B15-Nov-2024%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Polygon",
@@ -141,7 +141,7 @@
    },
    {
     "projectName": "LFIT (v2 report)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-v2-[30-Aug-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-v2-%5B30-Aug-2024%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Polygon",
@@ -151,7 +151,7 @@
    },
    {
     "projectName": "Brainstarter",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/brainstarter/BrainStarter-audit-report-[28-Aug-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/brainstarter/BrainStarter-audit-report-%5B28-Aug-2024%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -171,7 +171,7 @@
    },
    {
     "projectName": "World Earn Play Community (WEPC)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/w/wepc/WEPC-audit-report-[18-Jul-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/w/wepc/WEPC-audit-report-%5B18-Jul-2024%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -181,7 +181,7 @@
    },
    {
     "projectName": "DigitalOriginal",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/d/digitaloriginal/DigitalOriginal-audit-report-[28-Jun-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/d/digitaloriginal/DigitalOriginal-audit-report-%5B28-Jun-2024%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -201,7 +201,7 @@
   },
   {
     "projectName": "LFIT",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-[21-Jun-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-%5B21-Jun-2024%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Klaytn",
@@ -221,7 +221,7 @@
  },
  {
     "projectName": "E Money Network (by Scallop)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-%5B7-Jun-2024%5D_compressed.pdf",
     "service": "Blockchain Protocol Audit",
     "lang": "Golang",
     "contractPlatform": "Cosmos, Evmos",
@@ -231,7 +231,7 @@
  },
  {
     "projectName": "E Money Network (by Scallop)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-%5B7-Jun-2024%5D_compressed.pdf",
     "service": "Secure CI/CD integration",
     "lang": "Golang",
     "contractPlatform": "Cosmos, Evmos",
@@ -241,7 +241,7 @@
  },
  {
     "projectName": "E Money Network (by Scallop)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/emoneynetwork/Emoney-audit-report-%5B7-Jun-2024%5D_compressed.pdf",
     "service": "Post-audit patching",
     "lang": "Golang",
     "contractPlatform": "Cosmos, Evmos",
@@ -291,7 +291,7 @@
  },
  {
     "projectName": "Kadcast: Dusk networking protocol",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/d/dusk/Kadcast-(by-Dusk)-audit-report-%5B17-Apr-2024%5D_compressed.pdf",
     "service": "Blockchain Protocol Audit",
     "lang": "Rust",
     "contractPlatform": "Dusk",
@@ -321,7 +321,7 @@
  },
  {
     "projectName": "Blockus (Sui NFT)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/blockus/Blockus-(Sui)-audit-report-[12-Mar-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/blockus/Blockus-(Sui)-audit-report-%5B12-Mar-2024%5D.pdf",
     "service": "NFT SC Audit",
     "lang": "Move",
     "contractPlatform": "Sui",
@@ -341,7 +341,7 @@
   },
   {
     "projectName": "StarkDeFi (Locker)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/starkdefi/StarkDeFi-Locker-audit-report-[19-Feb-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/starkdefi/StarkDeFi-Locker-audit-report-%5B19-Feb-2024%5D.pdf",
     "service": "SC Audit",
     "lang": "Cairo",
     "contractPlatform": "StarkNet",
@@ -361,7 +361,7 @@
   },
   {
     "projectName": "Avax Apes",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/avaxapes/AvaxApes-Audit-Report-[25-Jan-2024].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/avaxapes/AvaxApes-Audit-Report-%5B25-Jan-2024%5D.pdf",
     "service": "NFT SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Avalanche",
@@ -391,7 +391,7 @@
   },
   {
     "projectName": "Promethium (Rebalancer)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/promethium/Promethium-audit-report-v2-[20-Nov-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/promethium/Promethium-audit-report-v2-%5B20-Nov-2023%5D.pdf",
     "service": "dApp (Backend) Audit",
     "lang": "JS",
     "contractPlatform": "Ethereum",
@@ -411,7 +411,7 @@
   },
   {
     "projectName": "Promethium",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/promethium/Promethium-audit-report-v2-[20-Nov-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/promethium/Promethium-audit-report-v2-%5B20-Nov-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -421,7 +421,7 @@
   },
   {
     "projectName": "FortiFi",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/f/fortifi/FortiFi-audit-report-[26-Oct-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/f/fortifi/FortiFi-audit-report-%5B26-Oct-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Avalanche",
@@ -431,7 +431,7 @@
   },
   {
     "projectName": "StarkDeFi (2nd iteration)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/starkdefi/StarkDeFi-audit-report-v2-%5B23-Oct-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Cairo",
     "contractPlatform": "StarkNet",
@@ -441,7 +441,7 @@
   },
   {
     "projectName": "Sui Multisig (by Mysten Labs)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sui/Sui-Multisig-(by-Mysten-labs)-audit-report-[9-Oct-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sui/Sui-Multisig-(by-Mysten-labs)-audit-report-%5B9-Oct-2023%5D.pdf",
     "service": "SDK Audit",
     "lang": "Rust",
     "contractPlatform": "SUI",
@@ -451,7 +451,7 @@
   },
   {
     "projectName": "StarkDeFi",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/starkdefi/StarkDeFi-audit-report-v2-%5B23-Oct-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Cairo",
     "contractPlatform": "StarkNet",
@@ -461,7 +461,7 @@
   },
   {
     "projectName": "Unigreed",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/u/unigreed/Unigreed-audit-report-v1-[27-Sep-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/u/unigreed/Unigreed-audit-report-v1-%5B27-Sep-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -471,7 +471,7 @@
   },
   {
     "projectName": "CoinSender",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/coinsender/CoinSender-audit-report-v1-[25-Sep-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/coinsender/CoinSender-audit-report-v1-%5B25-Sep-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "CosmWasm",
     "contractPlatform": "Cosmos,Injective Chain",
@@ -491,7 +491,7 @@
   },
   {
     "projectName": "Sui TS SDK (by Mysten Labs)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sui/Sui-SDK-(by-Mysten-labs)-audit-report-[4-Sep-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sui/Sui-SDK-(by-Mysten-labs)-audit-report-%5B4-Sep-2023%5D.pdf",
     "service": "SDK Audit",
     "lang": "Typescript",
     "contractPlatform": "SUI",
@@ -501,7 +501,7 @@
   },
   {
     "projectName": "Cryptopia",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptopia/Cryptopia-audit-report-v1-[31-Aug-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptopia/Cryptopia-audit-report-v1-%5B31-Aug-2023%5D.pdf",
     "service": "NFT SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -521,7 +521,7 @@
   },
   {
     "projectName": "01node",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/0/01node/01node-audit-report-v1-[22-Aug-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/0/01node/01node-audit-report-v1-%5B22-Aug-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -531,7 +531,7 @@
   },
   {
     "projectName": "Lockon Finance",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lockon-finance/Lockon-audit-report-[7-July-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lockon-finance/Lockon-audit-report-%5B7-July-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Polygon",
@@ -561,7 +561,7 @@
   },
   {
     "projectName": "Everdues",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everdues/Everdues-audit-report-v1-[4-May-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everdues/Everdues-audit-report-v1-%5B4-May-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum,BNB Chain,Polygon",
@@ -571,7 +571,7 @@
   },
   {
     "projectName": "Everstake (B2C)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-B2C-audit-report-v1-[2-May-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-B2C-audit-report-v1-%5B2-May-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -601,7 +601,7 @@
   },
   {
     "projectName": "Veritty",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/veritty/Veritty-audit-report-v1-%5B29-Mar-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -611,7 +611,7 @@
   },
   {
     "projectName": "Gerobi",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/g/gerobi/Gerobi-audit-report-v1-[27-Mar-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/g/gerobi/Gerobi-audit-report-v1-%5B27-Mar-2023%5D.pdf",
     "service": "ERC20 SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Aurora",
@@ -621,7 +621,7 @@
   },
   {
     "projectName": "Binaryx",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/binaryx/Binaryx-audit-report-v1-%5B22-Mar-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Polygon",
@@ -631,7 +631,7 @@
   },
   {
     "projectName": "Synthex",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/synthex/Synthex-audit-report-v1-[16-Mar-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/synthex/Synthex-audit-report-v1-%5B16-Mar-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Arbitrum",
@@ -641,7 +641,7 @@
   },
   {
     "projectName": "Everstake (B2B)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-audit-report-v1-[10-Mar-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/e/everstake/Everstake-audit-report-v1-%5B10-Mar-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -651,7 +651,7 @@
   },
   {
     "projectName": "TokenDeal",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tokendeal/TokenDeal-audit-report-v1-[24-Feb-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tokendeal/TokenDeal-audit-report-v1-%5B24-Feb-2023%5D.pdf",
     "service": "NFT SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -661,7 +661,7 @@
   },
   {
     "projectName": "Title Deeds CEX (by Viewpoint)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeedsCEX-audit-report-v1-[13-Feb-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeedsCEX-audit-report-v1-%5B13-Feb-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum,BNB Chain",
@@ -671,7 +671,7 @@
   },
   {
     "projectName": "Liquid Access NFT (Security Audit v2)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/liquidaccess/LiquidAccessNFT-audit-report-v2-[10-Feb-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/liquidaccess/LiquidAccessNFT-audit-report-v2-%5B10-Feb-2023%5D.pdf",
     "service": "NFT SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -681,7 +681,7 @@
   },
   {
     "projectName": "Kale Bridge (by Bluelight)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/bluelight/KaleBridge-audit-report-v1-[30-Jan-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/b/bluelight/KaleBridge-audit-report-v1-%5B30-Jan-2023%5D.pdf",
     "service": "Bridge SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -691,7 +691,7 @@
   },
   {
     "projectName": "Cupcake",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cupcake/Cupcake-audit-report-v1-[5-Jan-2023].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cupcake/Cupcake-audit-report-v1-%5B5-Jan-2023%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -701,7 +701,7 @@
   },
   {
     "projectName": "Liquid Access NFT (Security Audit v1)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/liquidaccess/LiquidAccessNFT-audit-report-v1-[28-Nov-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/liquidaccess/LiquidAccessNFT-audit-report-v1-%5B28-Nov-2022%5D.pdf",
     "service": "NFT SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -711,7 +711,7 @@
   },
   {
     "projectName": "Rainbow Bridge (by Aurora)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/RainbowBridge-audit-report-v1-%5B5-Oct-2022%5D.pdf",
     "service": "Bridge Audit",
     "lang": "Solidity,Rust",
     "contractPlatform": "Ethereum,NEAR",
@@ -721,7 +721,7 @@
   },
   {
     "projectName": "Title Deeds (by Viewpoint)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeeds-audit-report-v1-[22-Jul-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/TitleDeeds-audit-report-v1-%5B22-Jul-2022%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -731,7 +731,7 @@
   },
   {
     "projectName": "Kale Token (by Viewpoint)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/KaleToken-audit-report-v1-[15-Jun-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/v/viewpoint/KaleToken-audit-report-v1-%5B15-Jun-2022%5D.pdf",
     "service": "ERC20 SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -741,7 +741,7 @@
   },
   {
     "projectName": "LiveTree",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/livetree/LiveTree-audit-report-v1-[19-Jul-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/livetree/LiveTree-audit-report-v1-%5B19-Jul-2022%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -751,7 +751,7 @@
   },
   {
     "projectName": "Aurora (Staking)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/Aurora-audit-report-v1-[7-Jun-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/aurora/Aurora-audit-report-v1-%5B7-Jun-2022%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Aurora",
@@ -761,7 +761,7 @@
   },
   {
     "projectName": "Sanr",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sanr/SanR-audit-report-v1-[18-Apr-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/s/sanr/SanR-audit-report-v1-%5B18-Apr-2022%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -771,7 +771,7 @@
   },
   {
     "projectName": "Crypto Collective",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptocollective/CryptoCollective-audit-report-v1-[9-Apr-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptocollective/CryptoCollective-audit-report-v1-%5B9-Apr-2022%5D.pdf",
     "service": "NFT SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -781,7 +781,7 @@
   },
   {
     "projectName": "Nemus (Security Audit v2)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v2-[14-Mar-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v2-%5B14-Mar-2022%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -791,7 +791,7 @@
   },
   {
     "projectName": "Nemus (Security Audit v1)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v1-[18-Feb-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/n/nemus/Nemus-audit-report-v1-%5B18-Feb-2022%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -801,7 +801,7 @@
   },
   {
     "projectName": "PeakDeFi (Launchpad)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Lauchpad-[2-Feb-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Lauchpad-%5B2-Feb-2022%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -811,7 +811,7 @@
   },
   {
     "projectName": "CryptoBear",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptobear/CryptoBear-audit-report-v1-[18-Jan-2022].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/c/cryptobear/CryptoBear-audit-report-v1-%5B18-Jan-2022%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -821,7 +821,7 @@
   },
   {
     "projectName": "PeakDeFi (Governance)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Governance-[15-Dec-2021].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Governance-%5B15-Dec-2021%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -831,7 +831,7 @@
   },
   {
     "projectName": "PeakDeFi (Fund)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Fund-[22-Jul-2021].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/p/peakdefi/PeakDeFi-audit-report-Fund-%5B22-Jul-2021%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -841,7 +841,7 @@
   },
   {
     "projectName": "Tranche Compound (by Jibrel)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-compound-security-audit-v1-[29-Mar-2021].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-compound-security-audit-v1-%5B29-Mar-2021%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -851,7 +851,7 @@
   },
   {
     "projectName": "Tranche Staking (by Jibrel)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-staking-security-audit-v1-[17-Mar-2021].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-staking-security-audit-v1-%5B17-Mar-2021%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -861,7 +861,7 @@
   },
   {
     "projectName": "Tranche (by Jibrel)(Security Review)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-security-review-[21-Jan-2021].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-security-review-%5B21-Jan-2021%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
@@ -871,7 +871,7 @@
   },
   {
     "projectName": "Tranche (by Jibrel)(Security Expertise)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-security-expertise-v1-[19-Jan-2021].pdf",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/t/tranche/Tranche-security-expertise-v1-%5B19-Jan-2021%5D.pdf",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
