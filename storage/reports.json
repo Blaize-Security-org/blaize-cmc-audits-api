@@ -1,11 +1,131 @@
 [
    {
+    "projectName": "Aut Labs (RepFi token suite)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/a/autlabs/Aut-Labs-(token-repfi)-audit-report-[4-Dec-2024].pdf",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "4 December 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "AMGI (Staking)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "21 November 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "Lockon Finance (Adjuster)",
+    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lockon-finance/Lockon-(Adjuster)-audit-report-[15-Nov-2024].pdf",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Polygon",
+    "reportDate": "15 November 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "E Money Network (by Scallop)",
+    "reportUrl": "",
+    "service": "Post-audit patching by Security Team",
+    "lang": "Golang",
+    "contractPlatform": "Cosmos, Evmos",
+    "reportDate": "30 October 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "Reform (Claim)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "21 October 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "Grass",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Rust",
+    "contractPlatform": "Solana",
+    "reportDate": "21 October 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "Kalp (Gateway)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Golang",
+    "contractPlatform": "Hyperledger Fabric",
+    "reportDate": "10 October 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "E Money (by Scallop)",
+    "reportUrl": "",
+    "service": "v2 SC Security review",
+    "lang": "Solidity",
+    "contractPlatform": "Polygon",
+    "reportDate": "28 September 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "Hydro",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Move",
+    "contractPlatform": "Sui",
+    "reportDate": "26 September 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "AraFi",
+    "reportUrl": "",
+    "service": "Post-audit services (patching and deployment curation)",
+    "lang": "Solidity",
+    "contractPlatform": "Arbitrum",
+    "reportDate": "20 September 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
     "projectName": "Karrat (marketplace)",
     "reportUrl": "",
     "service": "SC Audit",
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
     "reportDate": "10 September 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "Gini (by Kalp)",
+    "reportUrl": "",
+    "service": "SC Security Review",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "9 September 2024",
+    "publicationDate": "",
+    "caseUrl": ""
+   },
+   {
+    "projectName": "E Money (by Scallop) (Escrow)",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Polygon",
+    "reportDate": "5 September 2024",
     "publicationDate": "",
     "caseUrl": ""
    },
@@ -36,6 +156,16 @@
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
     "reportDate": "28 August 2024",
+    "publicationDate": "17 September 2024",
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-brainstarter/"
+   },
+   {
+    "projectName": "Thea",
+    "reportUrl": "",
+    "service": "SC Audit",
+    "lang": "Solidity",
+    "contractPlatform": "Ethereum",
+    "reportDate": "20 August 2024",
     "publicationDate": "",
     "caseUrl": ""
    },
@@ -47,7 +177,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "18 July 2024",
     "publicationDate": "26 July 2024",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-wepc/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-wepc/"
    },
    {
     "projectName": "DigitalOriginal",
@@ -56,19 +186,19 @@
     "lang": "Solidity",
     "contractPlatform": "Ethereum",
     "reportDate": "28 June 2024",
-    "publicationDate": "",
-    "caseUrl": ""
+    "publicationDate": "16 October 2024",
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-digital-original/"
   },
- {
+  {
     "projectName": "E Money Network (by Scallop)",
     "reportUrl": "",
-    "service": "Patching by Security Team",
+    "service": "KYB Module preparing by Security Team",
     "lang": "Golang",
     "contractPlatform": "Cosmos, Evmos",
     "reportDate": "27 June 2024",
     "publicationDate": "",
     "caseUrl": ""
- },
+  },
   {
     "projectName": "LFIT",
     "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/l/lfit/LFIT-audit-report-[21-Jun-2024].pdf",
@@ -97,7 +227,7 @@
     "contractPlatform": "Cosmos, Evmos",
     "reportDate": "7 June 2024",
     "publicationDate": "",
-    "caseUrl": "https://blaize.tech/clients/security-services-for-e-money-network-blockchain/"
+    "caseUrl": "https://security.blaize.tech/clients/security-services-for-e-money-networklt-blockchain/"
  },
  {
     "projectName": "E Money Network (by Scallop)",
@@ -107,7 +237,7 @@
     "contractPlatform": "Cosmos, Evmos",
     "reportDate": "31 May 2024",
     "publicationDate": "",
-    "caseUrl": "https://blaize.tech/clients/security-services-for-e-money-network-blockchain/"
+    "caseUrl": "https://security.blaize.tech/clients/security-services-for-e-money-networklt-blockchain/"
  },
  {
     "projectName": "E Money Network (by Scallop)",
@@ -117,7 +247,7 @@
     "contractPlatform": "Cosmos, Evmos",
     "reportDate": "31 May 2024",
     "publicationDate": "",
-    "caseUrl": "https://blaize.tech/clients/security-services-for-e-money-network-blockchain/"
+    "caseUrl": "https://security.blaize.tech/clients/security-services-for-e-money-networklt-blockchain/"
  },
  {
     "projectName": "Blockus (Skale NFT)",
@@ -130,7 +260,7 @@
     "caseUrl": ""
  },
  {
-    "projectName": "EMoney (by Scallop)",
+    "projectName": "E Money (by Scallop)",
     "reportUrl": "",
     "service": "SC Security Review",
     "lang": "Solidity",
@@ -140,7 +270,7 @@
     "caseUrl": ""
  },
  {
-    "projectName": "Karrat",
+    "projectName": "Karrat (DAO)",
     "reportUrl": "",
     "service": "SC Audit",
     "lang": "Solidity",
@@ -167,7 +297,7 @@
     "contractPlatform": "Dusk",
     "reportDate": "11 April 2024",
     "publicationDate": "22 April 2024",
-    "caseUrl": "https://blaize.tech/clients/security-audit-for-kadcast-dusk-networking-protocol/"
+    "caseUrl": "https://security.blaize.tech/clients/security-audit-for-kadcast-dusk-networking-protocol/"
  },
  {
     "projectName": "Smoofs",
@@ -197,7 +327,7 @@
     "contractPlatform": "Sui",
     "reportDate": "11 March 2024",
     "publicationDate": "21 March 2024",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-blockus/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-blockus/"
   },
   {
     "projectName": "Rumi",
@@ -217,7 +347,7 @@
     "contractPlatform": "StarkNet",
     "reportDate": "16 February 2024",
     "publicationDate": "20 February 2024",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-starkdefis-liquidity-locker/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-starkdefis-liquidity-locker/"
   },
   {
     "projectName": "Alfred (3rd iteration)",
@@ -267,7 +397,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "20 November 2023",
     "publicationDate": "27 November 2023",
-    "caseUrl": "https://blaize.tech/clients/security-audit-for-promethium/"
+    "caseUrl": "https://security.blaize.tech/clients/security-audit-for-promethium/"
   },
   {
     "projectName": "Alfred",
@@ -287,7 +417,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "26 October 2023",
     "publicationDate": "27 November 2023",
-    "caseUrl": "https://blaize.tech/clients/security-audit-for-promethium/"
+    "caseUrl": "https://security.blaize.tech/clients/security-audit-for-promethium/"
   },
   {
     "projectName": "FortiFi",
@@ -297,7 +427,7 @@
     "contractPlatform": "Avalanche",
     "reportDate": "24 October 2023",
     "publicationDate": "2 November 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-fortifi/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-fortifil/"
   },
   {
     "projectName": "StarkDeFi (2nd iteration)",
@@ -307,7 +437,7 @@
     "contractPlatform": "StarkNet",
     "reportDate": "20 October 2023",
     "publicationDate": "24 October 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audits-for-starkdefi/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-starkdefi/"
   },
   {
     "projectName": "Sui Multisig (by Mysten Labs)",
@@ -317,7 +447,7 @@
     "contractPlatform": "SUI",
     "reportDate": "9 October 2023",
     "publicationDate": "3 November 2023",
-    "caseUrl": "https://blaize.tech/clients/multisig-and-sdk-security-audits-for-mysten-labs/"
+    "caseUrl": "https://security.blaize.tech/clients/multisig-and-sdk-security-audits-for-mysten-labs/"
   },
   {
     "projectName": "StarkDeFi",
@@ -327,7 +457,7 @@
     "contractPlatform": "StarkNet",
     "reportDate": "29 September 2023",
     "publicationDate": "24 October 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audits-for-starkdefi/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-starkdefi/"
   },
   {
     "projectName": "Unigreed",
@@ -347,7 +477,7 @@
     "contractPlatform": "Cosmos,Injective Chain",
     "reportDate": "22 September 2023",
     "publicationDate": "27 September 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-coinsender/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-coinsender/"
   },
   {
     "projectName": "Synapse Bridge (by Humans Blockchain team)",
@@ -367,7 +497,7 @@
     "contractPlatform": "SUI",
     "reportDate": "4 September 2023",
     "publicationDate": "3 November 2023",
-    "caseUrl": "https://blaize.tech/clients/multisig-and-sdk-security-audits-for-mysten-labs/"
+    "caseUrl": "https://security.blaize.tech/clients/multisig-and-sdk-security-audits-for-mysten-labs/"
   },
   {
     "projectName": "Cryptopia",
@@ -377,7 +507,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "31 August 2023",
     "publicationDate": "1 September 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cryptopia/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-cryptopia/"
   },
   {
     "projectName": "AraFi",
@@ -397,7 +527,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "22 August 2023",
     "publicationDate": "28 August 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-01node/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-01node/"
   },
   {
     "projectName": "Lockon Finance",
@@ -407,7 +537,7 @@
     "contractPlatform": "Polygon",
     "reportDate": "7 July 2023",
     "publicationDate": "12 July 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-lockon-finance/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-lockon-finance/"
   },
   {
     "projectName": "WaveLength",
@@ -437,7 +567,7 @@
     "contractPlatform": "Ethereum,BNB Chain,Polygon",
     "reportDate": "4 May 2023",
     "publicationDate": "11 May 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-everdues/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-everdues/"
   },
   {
     "projectName": "Everstake (B2C)",
@@ -447,7 +577,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "2 May 2023",
     "publicationDate": "16 May 2023",
-    "caseUrl": "https://blaize.tech/clients/the-second-smart-contract-security-audit-for-everstake/"
+    "caseUrl": "https://security.blaize.tech/clients/the-second-smart-contract-security-audit-for-everstake/"
   },
   {
     "projectName": "Asteroid Diner",
@@ -487,7 +617,7 @@
     "contractPlatform": "Aurora",
     "reportDate": "27 Mar 2023",
     "publicationDate": "9 Apr 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-gerobi/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-gerobil/"
   },
   {
     "projectName": "Binaryx",
@@ -497,7 +627,7 @@
     "contractPlatform": "Polygon",
     "reportDate": "22 Mar 2023",
     "publicationDate": "24 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-binaryx/"
   },
   {
     "projectName": "Synthex",
@@ -507,7 +637,7 @@
     "contractPlatform": "Arbitrum",
     "reportDate": "16 Mar 2023",
     "publicationDate": "20 Apr 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-synthex/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-synthex/"
   },
   {
     "projectName": "Everstake (B2B)",
@@ -517,7 +647,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "10 Mar 2023",
     "publicationDate": "30 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-everstake/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-everstake/"
   },
   {
     "projectName": "TokenDeal",
@@ -527,7 +657,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "24 Feb 2023",
     "publicationDate": "21 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-tokendeal-protocol-for-nft-sales/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-tokendeal/"
   },
   {
     "projectName": "Title Deeds CEX (by Viewpoint)",
@@ -537,7 +667,7 @@
     "contractPlatform": "Ethereum,BNB Chain",
     "reportDate": "13 Feb 2023",
     "publicationDate": "1 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-title-deeds-cex-by-viewpoint-labs/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-title-deeds-cex-by-viewpoint-labs/"
   },
   {
     "projectName": "Liquid Access NFT (Security Audit v2)",
@@ -547,7 +677,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "10 Feb 2023",
     "publicationDate": "23 Feb 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
   },
   {
     "projectName": "Kale Bridge (by Bluelight)",
@@ -557,7 +687,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "30 Jan 2023",
     "publicationDate": "16 Feb 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-bluelight-kale-bridge/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-bluelight/"
   },
   {
     "projectName": "Cupcake",
@@ -567,7 +697,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "5 Jan 2023",
     "publicationDate": "2 Feb 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cupcake-nft-app/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-cupcake/"
   },
   {
     "projectName": "Liquid Access NFT (Security Audit v1)",
@@ -577,7 +707,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "28 Nov 2022",
     "publicationDate": "22 Dec 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/"
   },
   {
     "projectName": "Rainbow Bridge (by Aurora)",
@@ -587,7 +717,7 @@
     "contractPlatform": "Ethereum,NEAR",
     "reportDate": "5 Oct 2022",
     "publicationDate": "14 Mar 2023",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-procedure-for-rainbow-bridge/"
   },
   {
     "projectName": "Title Deeds (by Viewpoint)",
@@ -627,7 +757,7 @@
     "contractPlatform": "Aurora",
     "reportDate": "7 Jun 2022",
     "publicationDate": "15 Aug 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-aurora/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-aurora/"
   },
   {
     "projectName": "Sanr",
@@ -647,7 +777,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "9 Apr 2022",
     "publicationDate": "21 Apr 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-crypto-collective/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-crypto-collective/"
   },
   {
     "projectName": "Nemus (Security Audit v2)",
@@ -657,7 +787,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "14 Mar 2022",
     "publicationDate": "22 Apr 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-nemus/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-nemus/"
   },
   {
     "projectName": "Nemus (Security Audit v1)",
@@ -667,7 +797,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "18 Feb 2022",
     "publicationDate": "21 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-nemus/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-nemus/"
   },
   {
     "projectName": "PeakDeFi (Launchpad)",
@@ -677,7 +807,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "2 Feb 2022",
     "publicationDate": "9 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
   },
   {
     "projectName": "CryptoBear",
@@ -687,7 +817,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "18 Jan 2022",
     "publicationDate": "3 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-cryptobear-watch-club/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-cryptobear-watch-club/"
   },
   {
     "projectName": "PeakDeFi (Governance)",
@@ -697,17 +827,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "15 Dec 2021",
     "publicationDate": "9 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
-  },
-  {
-    "projectName": "1inch (Limit Orders)",
-    "reportUrl": "https://github.com/blaize-security/blaize-security-audits/blob/main/1/1inch/1inch-audit-report-v1-[5-Nov-2021].pdf",
-    "service": "SC Audit",
-    "lang": "Solidity",
-    "contractPlatform": "Ethereum",
-    "reportDate": "5 Nov 2021",
-    "publicationDate": "26 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-1inch/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
   },
   {
     "projectName": "PeakDeFi (Fund)",
@@ -717,7 +837,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "22 Jul 2021",
     "publicationDate": "9 Feb 2022",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-peakdefi/"
   },
   {
     "projectName": "Tranche Compound (by Jibrel)",
@@ -727,7 +847,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "29 Mar 2021",
     "publicationDate": "8 Feb 2021",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
   },
   {
     "projectName": "Tranche Staking (by Jibrel)",
@@ -737,7 +857,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "17 Mar 2021",
     "publicationDate": "8 Feb 2021",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
   },
   {
     "projectName": "Tranche (by Jibrel)(Security Review)",
@@ -747,7 +867,7 @@
     "contractPlatform": "Ethereum",
     "reportDate": "21 Jan 2021",
     "publicationDate": "8 Feb 2021",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
   },
   {
     "projectName": "Tranche (by Jibrel)(Security Expertise)",
@@ -757,6 +877,6 @@
     "contractPlatform": "Ethereum",
     "reportDate": "19 Jan 2021",
     "publicationDate": "8 Feb 2021",
-    "caseUrl": "https://blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
+    "caseUrl": "https://security.blaize.tech/clients/smart-contract-security-audit-for-jibrel/"
   }
 ]
